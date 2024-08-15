@@ -1,7 +1,7 @@
 {
   "name": "Your App Name",
   "short_name": "App",
-  "start_url": "/",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#FFFFFF",
